@@ -8,5 +8,5 @@ Skills: Python, CodeIgniter, Objective C, Java, Flutter
 - 📫 How to reach me: kjforusegmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/EyuKJ)  [<img src='https://images.app.goo.gl/Vi7iKeoE2Pfg59r67' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eyu-kai-jun-4a1a4623b//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/EyuKJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eyu-kai-jun-4a1a4623b//)  
 
